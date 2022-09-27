@@ -58,3 +58,9 @@ body
     text-align: center;
     padding: 0.5em;
 }
+
+#footer #logo2
+{
+    width: 30px;
+    vertical-align: middle;
+}
